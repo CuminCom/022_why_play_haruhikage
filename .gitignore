@@ -1,0 +1,20 @@
+# Build outputs
+build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# Debugger generated files
+.gdb-debug/
+
+# Editor and OS files
+.vscode/settings.json
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
